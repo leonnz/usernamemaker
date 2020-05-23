@@ -18,9 +18,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>My page title</title>
+        <title>Username Maker</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta name="description" content="Create, generate, make a random username you can use for anything such as for gaming, accounts, testing or other." />
+        <meta
+          name="description"
+          content="Create, generate, make a random username you can use for anything such as for gaming, accounts, testing or other."
+        />
         <link
           rel="stylesheet"
           href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
