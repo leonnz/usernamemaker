@@ -38,7 +38,7 @@ export default function Home() {
             className="container text-light bg-dark rounded p-5"
             style={{ width: '700px' }}
           >
-            <h1 className="text-center">Username generator</h1>
+            <h1 className="text-center">Username Maker</h1>
             <p>Arise ...</p>
             <div className="input-group mb-3">
               <input
@@ -65,7 +65,7 @@ export default function Home() {
             <p>... go forth and conquer!</p>
             <div className="text-center pt-3">
               <button type="button" className=" btn btn-info" onClick={getName}>
-                Generate name
+                Make a username
               </button>
             </div>
           </div>
