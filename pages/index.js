@@ -77,10 +77,7 @@ export default function Home() {
       <div className="row mt-5">
         <div className="col">
           <div className="container">
-            <p
-              className="text-center text-muted "
-              style={{ textAlign: 'bottom' }}
-            >
+            <p className="text-center text-muted">
               Did you find this tool useful/fun/feeling nice?
               {'  '}
               <a
