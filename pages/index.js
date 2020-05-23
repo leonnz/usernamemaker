@@ -51,7 +51,6 @@ export default function Home() {
                 type="text"
                 className="form-control"
                 aria-label="Username"
-                aria-describedby="basic-addon1"
                 value={name}
               ></input>
               <div className="input-group-append">
